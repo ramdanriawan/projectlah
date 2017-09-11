@@ -1,0 +1,24 @@
+langkah Instalasi App ArsipDigital
+
+Pertama-tama saya mengucapkan Rasa Syukur Kepada ALLAH . SWT
+1. Pak Muhammad Saleh Sitompul ( Selaku Pembibimbing Kita dari Nol Hingga Saat ini )
+2. Pada Mbak Lala Afdilah
+ dan Teman-teman semua.
+
+Sebelum Melakukan Instalasi kita Perlu Mendownload Sofware "xampp-win32-5.5.19-0-VC11" di Mbah google
+
+Langkah Selanjutnya Instalasi:
+
+1. Run/Instaler xampp-win32-5.5.19-0-VC11 yg telah di download tadi Hingga Finising;
+2. Jika Telah clear Peng-instalan maka Open Xampp yang ada pada file c:xampp/xampp-control.exe;
+3. Clik Star Apache dan MySQL;
+4. Jika Peng-instalan tidak mengalami error maka smua akan Running; Lalu
+5. Open Mozilla, masukan alamat http://localhost/PHPMYADMIN; ( klik apche pada browser mozilla );
+6. Jika sudah masuk pada "http://localhost/PHPMYADMIN" lakukan edit alamat browser menjadi "http://localhost/phpmyadmin" lalu
+7. Creat databasenya (arsipdigital.sql)
+8. Impor tabelnya dan finis
+9. User dan passwornya sama seperti password standar SIAK.5.7
+10. SELAMAT MENCOBA
+
+
+SALAM 1503 BAGOES SAROLANGUN

@@ -1,0 +1,21 @@
+[30-Dec-2016 15:56:12 Asia/Bangkok] PHP Fatal error:  Call to undefined function oci_connect() in /home/aplikanu/public_html/arsipdigital/includes/config.php on line 15
+[04-Jan-2017 15:55:59 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[04-Jan-2017 15:55:59 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 00:30:34 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 00:30:34 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 00:42:55 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 00:42:55 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 08:12:46 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 08:12:46 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 10:00:45 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 10:00:45 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 19:52:58 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[05-Jan-2017 19:52:58 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[10-Jan-2017 10:52:55 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[10-Jan-2017 10:52:55 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[11-Jan-2017 09:22:00 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[11-Jan-2017 09:22:00 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[23-Jan-2017 10:31:46 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[23-Jan-2017 10:31:46 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[23-Jan-2017 10:32:43 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
+[23-Jan-2017 10:32:43 Asia/Bangkok] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/aplikanu/public_html/arsipdigital/pages/profile.php on line 9
