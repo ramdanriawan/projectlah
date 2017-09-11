@@ -1,0 +1,157 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+
+}
+.wrapper{
+	margin: auto;
+}
+.main-header{
+	background: #d32323 none repeat scroll 0% 0%;
+	padding: 1em;
+	border-radius: 0.5em;
+	padding-bottom: 1em;
+}
+.logo{
+	margin-bottom: 0.5em;
+}
+.sign{
+	margin-bottom: 0.5em;
+}
+a.btn-sign:link, a.btn-sign:visited {
+  background-color: #f44336;
+  width: 75px;
+  color: white;
+  padding: 0.5em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0.5em;
+}
+a.btn-sign:hover, a.btn-sign:active {
+  background-color: red;
+}
+a.btn-login:link, a.btn-login:visited {
+  background-color: #f44336;
+  width: 75px;
+  color: white;
+  padding: 0.5em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0.5em;
+}
+a.btn-login:hover, a.btn-login:active {
+  background-color: red;
+}
+.content{
+	margin: 1em;
+}
+.section-header{
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 1em; 
+}
+.city a{
+	padding-right: 0.5em;
+}
+.column-alpha{
+
+}
+.section1{
+	height: 182px;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;
+  	margin-bottom: 1em;
+}
+
+.section2{
+	height: 595px;
+	margin-top: 1em;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;	
+  	margin-bottom: 1em;
+}
+
+.section3{
+	height: 1000px;
+	margin-top: 1em;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;	
+  	margin-bottom: 1em;
+}
+
+.section4{
+	height: 254px;
+	margin-top: 1em;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;	
+  	margin-bottom: 1em;
+}
+
+.section5{
+	height: 190px;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;	
+}
+
+.section6{
+	height: 156px;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;	
+}
+
+.column-sidebar{
+
+}
+.sidebar1{
+	height: 230px;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;
+  	margin-bottom: 1em;
+}
+
+.sidebar2{
+	height: 317px;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;
+  	margin-bottom: 1em;
+}
+
+.sidebar3{
+	height: 320px;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;
+  	margin-bottom: 1em;
+}
+
+.sidebar4{
+	height: 295px;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;
+  	margin-bottom: 1em;
+}
+.main-footer{
+
+}
+.footer{
+	height: 295px;
+	padding: 2em;
+  	border-radius: 1em;
+  	background-color: aqua;
+}
